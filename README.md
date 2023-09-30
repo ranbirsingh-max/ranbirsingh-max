@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
-<p aligh="left">You can reach me via email <a href="charakranbirsingh@gmail.com">
+<p aligh="left">You can reach me via email. <br/> I'm always interested in connecting with fellow developers. Feel free to reach out and let's chat
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -5,8 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranbirsingh-max" alt="ranbirsingh-max" /></a> </p>
 
-- 🔭 I’m currently working on [Priority Scheduling Algorithms](( https://github.com/ranbirsingh-max/Priority-Seduling-Algorithms-Project-))
+## 🔭 Projects
 
+- 🔭 [project]DICE GAME((https://github.com/ranbirsingh-max/DICE-GAME-using-HTML-CSS-JavaScript)):
+ .In this game I use HTML, CSS as well as Java Script.In this website when you refresh the page the two different dice will shuffle and show some random numbers between 1 to 6.
+
+- 🔭 I’m currently working on [Priority Scheduling Algorithms](( https://github.com/ranbirsingh-max/Priority-Seduling-Algorithms-Project-))
+## 💬 learning
 - 🌱 I’m currently learning **Backend web development**
 
 - 💬 Ask me about **DOM,Bootstrap,Javascript**

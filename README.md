@@ -7,6 +7,9 @@
 
 ## 🔭 Projects
 
+ -🔭[project]THE SIMON GAME((https://github.com/ranbirsingh-max/simon_game)).
+ .Simon is an electronic game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison, working for toy design firm Marvin Glass and Associates,[1] with software programming by Lenny Cope
+
 - 🔭 [project]DICE GAME((https://github.com/ranbirsingh-max/DICE-GAME-using-HTML-CSS-JavaScript)):
  .In this game I use HTML, CSS as well as Java Script.In this website when you refresh the page the two different dice will shuffle and show some random numbers between 1 to 6.
 

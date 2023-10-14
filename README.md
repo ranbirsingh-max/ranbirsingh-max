@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranbirsingh-max&label=Profile%20views&color=0e75b6&style=flat" alt="ranbirsingh-max" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranbirsingh-max" alt="ranbirsingh-max" /></a> </p>
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranbirsingh-max&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" alt="ranbirsingh-max" /></a> </p>
 
 ## 🔭 Projects
 <p align="center">
@@ -48,9 +49,9 @@
 
 I'm always interested in connecting with fellow developers. Feel free to reach out and let's chat!
 
-  
+  # 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranbirsingh-max&show_icons=true&locale=en&layout=compact" alt="ranbirsingh-max" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranbirsingh-max&show_icons=true&locale=en&layout=compact&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="ranbirsingh-max" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranbirsingh-max&" alt="ranbirsingh-max" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranbirsingh-max&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="ranbirsingh-max&theme=radical&no-frame=true&no-bg=false&margin-w=4" /></p>
 

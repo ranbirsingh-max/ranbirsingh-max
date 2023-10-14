@@ -1,6 +1,7 @@
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Ranbir Singh</h1>
 <h3 align="center">I'm a passionate software developer with a love for coding and problem-solving. Welcome to my GitHub profile!</h3>
-<img align="centert" alt="coding" width="400" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranbirsingh-max&label=Profile%20views&color=0e75b6&style=flat" alt="ranbirsingh-max" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranbirsingh-max" alt="ranbirsingh-max" /></a> </p>
@@ -17,6 +18,7 @@
   -in this project i use HTML,CSS,JS.In this website anyone wholoves to play drum can make their own beats of music.
 
 - 🔭 I’m currently working on [Priority Scheduling Algorithms](( https://github.com/ranbirsingh-max/Priority-Seduling-Algorithms-Project-))
+
 ## 💬 learning
 - 🌱 I’m currently learning **Backend web development**
 
@@ -39,7 +41,8 @@
 
 - Programming Languages: Javascript,Python ,C ,C++;
 - Frameworks:  Bootstrap
-- Databases: MySQL
+- Databases: MySQL <p align="right">
+<img alt="coding" width="400"  src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif"></p>
   ## 💬 Let's Connect
 
 I'm always interested in connecting with fellow developers. Feel free to reach out and let's chat!

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranbir Singh</h1>
 <h3 align="center">I'm a passionate software developer with a love for coding and problem-solving. Welcome to my GitHub profile!</h3>
-<img align="centert" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="centert" alt="coding" width="400" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranbirsingh-max&label=Profile%20views&color=0e75b6&style=flat" alt="ranbirsingh-max" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranbirsingh-max" alt="ranbirsingh-max" /></a> </p>

@@ -7,6 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranbirsingh-max" alt="ranbirsingh-max" /></a> </p>
 
 ## 🔭 Projects
+<p align="center">
+<img alt="coding" width="500"  src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif"></p>
 
  -🔭[project]THE SIMON GAME((https://github.com/ranbirsingh-max/simon_game)).
  .Simon is an electronic game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison, working for toy design firm Marvin Glass and Associates,[1] with software programming by Lenny Cope
@@ -41,8 +43,7 @@
 
 - Programming Languages: Javascript,Python ,C ,C++;
 - Frameworks:  Bootstrap
-- Databases: MySQL <p align="right">
-<img alt="coding" width="400"  src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif"></p>
+- Databases: MySQL 
   ## 💬 Let's Connect
 
 I'm always interested in connecting with fellow developers. Feel free to reach out and let's chat!

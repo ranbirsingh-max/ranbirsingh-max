@@ -70,15 +70,7 @@
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![adobelightroom](https://img.shields.io/badge/-adobelightroom-05122A?style=flat&logo=adobelightroom&logoColor=563D7C)&nbsp;
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ranbirsingh-max&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ranbirsingh-max&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranbirsingh-max&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ranbirsingh-max&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> </p>
  
 
 ## 💻 Technologies 📖

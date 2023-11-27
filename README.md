@@ -60,7 +60,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![REST-API](https://img.shields.io/badge/-REST-API-FF5700?style=flat&color=05122A&labelColor=05122A)
+![RESTAPI](https://img.shields.io/badge/-RESTAPI-FF5700?style=flat&color=05122A&labelColor=05122A)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS&logoColor=563D7C)&nbsp;
 ![express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express&logoColor=563D7C)&nbsp;

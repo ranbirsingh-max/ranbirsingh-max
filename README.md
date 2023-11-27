@@ -19,12 +19,12 @@
  
      💠.Simon is an electronic game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison, working for toy design firm Marvin Glass and Associates,[1] with software programming by Lenny Cope
 
-- 🔭 [project]DICE GAME((https://github.com/ranbirsingh-max/DICE-GAME-using-HTML-CSS-JavaScript)):
+- 🔭 [project]DICE GAME((https://github.com/ranbirsingh-max/DICE-GAME-using-HTML-CSS-JavaScript)).
   
-     💠.HTML, CSS, and JavaScript are the tools I use in this game. Refreshing the page on the website will result in two dice shuffle and random numbers between 1 and 6.
+    💠 .HTML, CSS, and JavaScript are the tools I use in this game. Refreshing the page on the website will result in two dice shuffle and random numbers between 1 and 6.
   
--🔭 [project]DRUM KIT((https://github.com/ranbirsingh-max/DICE-GAME-using-HTML-CSS-JavaScript)):
-     💠 I utilize HTML, CSS, and JS in this project. Anyone who enjoys playing drums can create their own music beats through this website.
+-🔭 [project]DRUM KIT((https://github.com/ranbirsingh-max/DICE-GAME-using-HTML-CSS-JavaScript)).
+     💠I utilize HTML, CSS, and JS in this project. Anyone who enjoys playing drums can create their own music beats through this website.
 
 - 🔭 I’m currently working on Databases
 

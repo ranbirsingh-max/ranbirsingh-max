@@ -1,32 +1,39 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center">Hi 👋, I'm Ranbir Singh</h1>
+<h1 align="center">Hi 👋, I'm Ranbir Singh 🤗</h1>
 <h3 align="center">I'm a passionate software developer with a love for coding and problem-solving. Welcome to my GitHub profile!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranbirsingh-max&label=Profile%20views&color=0e75b6&style=flat" alt="ranbirsingh-max" /> </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 🥇
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranbirsingh-max&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" alt="ranbirsingh-max" /></a> </p>
 
 ## 🔭 Projects
 <p align="center">
 <img alt="coding" width="500"  src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif"></p>
 
+  -🔭[project]Blog API_Project ((https://github.com/ranbirsingh-max/Blog_API_Project.git)).
+  
+     💠This project has resulted in the creation of my own blog API. Through the API, you are able to post your blog, delete it, update it, patch it, and get it too.
+ 
  -🔭[project]THE SIMON GAME((https://github.com/ranbirsingh-max/simon_game)).
- .Simon is an electronic game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison, working for toy design firm Marvin Glass and Associates,[1] with software programming by Lenny Cope
+ 
+     💠.Simon is an electronic game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison, working for toy design firm Marvin Glass and Associates,[1] with software programming by Lenny Cope
 
 - 🔭 [project]DICE GAME((https://github.com/ranbirsingh-max/DICE-GAME-using-HTML-CSS-JavaScript)):
- .In this game I use HTML, CSS as well as Java Script.In this website when you refresh the page the two different dice will shuffle and show some random numbers between 1 to 6.
+  
+     💠.HTML, CSS, and JavaScript are the tools I use in this game. Refreshing the page on the website will result in two dice shuffle and random numbers between 1 and 6.
+  
+-🔭 [project]DRUM KIT((https://github.com/ranbirsingh-max/DICE-GAME-using-HTML-CSS-JavaScript)):
+     💠 I utilize HTML, CSS, and JS in this project. Anyone who enjoys playing drums can create their own music beats through this website.
 
-  -🔭 [project]DRUM KIT((https://github.com/ranbirsingh-max/DICE-GAME-using-HTML-CSS-JavaScript)):
-  -in this project i use HTML,CSS,JS.In this website anyone wholoves to play drum can make their own beats of music.
-
-- 🔭 I’m currently working on [Priority Scheduling Algorithms](( https://github.com/ranbirsingh-max/Priority-Seduling-Algorithms-Project-))
+- 🔭 I’m currently working on Databases
 
 ## 💬 learning
 - 🌱 I’m currently learning **Backend web development**
 
-- 💬 Ask me about **DOM,Bootstrap,Javascript,jquery**
-##
+- 💬 Ask me about **HTML,Bootstrap,Javascript,jquery,API,Express**
+  
+## ❓
 - 📫 How to reach me **charakranbirsingh@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny**
@@ -46,11 +53,13 @@
   <img width="12" /> </p>
  
 
-## 🌱 Technologies
+## 💻 Technologies 📖
 
 - Programming Languages: Javascript,Python ,C ,C++;
+- Others : API, Express.js, Node.js ,Git 
 - Frameworks:  Bootstrap
-- Databases: MySQL 
+- Databases: MySQL
+  
   ## 💬 Let's Connect
 
 I'm always interested in connecting with fellow developers. Feel free to reach out and let's chat!

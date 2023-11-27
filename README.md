@@ -13,7 +13,7 @@
 
   -🔭[project]Blog API_Project ((https://github.com/ranbirsingh-max/Blog_API_Project.git)).
   
-     💠This project has resulted in the creation of my own blog API. Through the API, you are able to post your blog, delete it, update it, patch it, and get it too.
+     💠This project has resulted in the creation of my own blog API. Through the API, you are able to post your blog, delete it, update it, patch it and get it too and using my blog API, I created a website from the server side.
  
   -🔭[project]THE SIMON GAME((https://github.com/ranbirsingh-max/simon_game)).
  

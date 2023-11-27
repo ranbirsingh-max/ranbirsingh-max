@@ -34,8 +34,9 @@
 
 - 💬 Ask me about **HTML,Bootstrap,Javascript,jquery,API,Express**
   
-## ❓
-- 📫 How to reach me **charakranbirsingh@gmail.com**
+##  📫 How to reach me  ❓
+
+-Gmail- **charakranbirsingh@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny**
 

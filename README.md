@@ -26,7 +26,11 @@
   -🔭[project]DRUM KIT((https://github.com/ranbirsingh-max/DICE-GAME-using-HTML-CSS-JavaScript)).
   
      💠I utilize HTML, CSS, and JS in this project. Anyone who enjoys playing drums can create their own music beats through this website.
+     
+  -🔭[project]Priority-Seduling-Algorithms-Project-((https://github.com/ranbirsingh-max/Priority-Seduling-Algorithms-Project-.git)).
 
+     💠Led a dynamic team of four in the successful implementation of a Priority Scheduling Algorithm, a pivotal component in operating systems. Our collaborative effort optimized task execution, demonstrating adaptability, innovation, and a commitment to efficient resource utilization. Through effective teamwork, we navigated challenges, delivering a robust solution with real-world applications, showcasing our collective dedication to excellence in algorithmic design.
+     
   - 🔭 I’m currently working on Databases
 
 ## 💬 learning

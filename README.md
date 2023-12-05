@@ -10,7 +10,7 @@
 
 ## 🔭 Projects
 <p align="center">
-<img alt="coding" width="500"  src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif"></p>
+<img alt="coding" width="500"  src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"></p>
 
   -🔭[project]Blog API_Project ((https://github.com/ranbirsingh-max/Blog_API_Project.git)).
   

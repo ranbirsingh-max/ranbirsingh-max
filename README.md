@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-)
+
 <h1 align="center">Hi 👋, I'm Ranbir Singh 🤗</h1>
-<h3 align="center">I'm a passionate software developer with a love for coding and problem-solving. Welcome to my GitHub profile!</h3>
+<h3 align="center">I'm a passionate full stack web-developer excited to create impactful solutions. Explore my GitHub projects!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranbirsingh-max&label=Profile%20views&color=0e75b6&style=flat" alt="ranbirsingh-max" /> </p>
 
@@ -12,52 +12,52 @@
 <p align="center">
 <img alt="coding" width="500"  src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"></p>
 
-   -🔭[project] CodeFlowStudio((https://github.com/ranbirsingh-max/Mini-Project-_CodeFlowStudio.git)).
-
-     💠🚀 Dive into ReactPlayground, a sleek CodePen-inspired coding playground powered by React! 💻✨ This intuitive code editor provides a clear vision and enhances your web development practice. Explore the features, including syntax highlighting and collapsible panels, for an easy and productive coding experience. Check it out and elevate your coding journey!
-
-  -🔭[project]Blog API_Project ((https://github.com/ranbirsingh-max/Blog_API_Project.git)).
-  
-     💠This project has resulted in the creation of my own blog API. Through the API, you are able to post your blog, delete it, update it, patch it and get it too and using my blog API, I created a website from the server side.
+  -🔭[project]Portfolio Development Project. (https://ranbirs-projects.vercel.app/)
  
-  -🔭[project]THE SIMON GAME((https://github.com/ranbirsingh-max/simon_game)).
- 
-     💠.Simon is an electronic game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison, working for toy design firm Marvin Glass and Associates,[1] with software programming by Lenny Cope
+     💠💻✨ Created a responsive portfolio website that boosted client engagement by 20% 📈 and enhanced user experience by 30% 🌟. Key features: sleek design and dynamic interface. Tech Stack: Next.js 14, Tailwind CSS, Framer Motion, Swiper Slider.
 
-  -🔭[project]DICE GAME((https://github.com/ranbirsingh-max/DICE-GAME-using-HTML-CSS-JavaScript)).
+  -🔭[project]BookHeaven (https://github.com/ranbirsingh-max/Internship-Project.git)
   
-     💠 .HTML, CSS, and JavaScript are the tools I use in this game. Refreshing the page on the website will result in two dice shuffle and random numbers between 1 and 6.
+     💠 📚✨ Built an engaging book platform with dynamic search and personalized recommendations, boosting user satisfaction by 35%!Tech Stack: React.js, MongoDB, Node.js, Express.js.
+
+  -🔭[project]GOFOOD (https://github.com/ranbirsingh-max/Minor_Project)
   
-  -🔭[project]DRUM KIT((https://github.com/ranbirsingh-max/DICE-GAME-using-HTML-CSS-JavaScript)).
+     💠🍽️✨ Launched a community-focused food-sharing website, attracting 500+ users in the first month! 🚀 Key features include user authentication, food uploads, and reviews, boosting engagement by 25%.Tech Stack: MongoDB, Express.js, React, Node.js (MERN Stack).
+
+ -🔭[project] CodeFlowStudio (https://verdant-queijadas-da046b.netlify.app/)
+
+     💠💻✨ Created dynamic code editors for HTML, JavaScript, and CSS, enhancing user productivity by 40%! 🚀 Features include collapsible panels and multi-language support, boosting satisfaction by 30%.Tech Stack: React, CSS, CodeMirror.
+
+   -🔭[project]Blog API_Project (https://github.com/ranbirsingh-max/Blog_API_Project)
   
-     💠I utilize HTML, CSS, and JS in this project. Anyone who enjoys playing drums can create their own music beats through this website.
-     
-  -🔭[project]Priority-Scheduling-Algorithms-Project-((https://github.com/ranbirsingh-max/Priority-Seduling-Algorithms-Project-.git)).
+     💠📝✨ Developed a blog API with full CRUD functionality, boosting content management efficiency by 50%! 🚀 Key features include a custom API for versatile content operations.Tech Stack: EJS, Node.js, REST APIs, Express.js.
 
-     💠Led a dynamic team of four in the successful implementation of a Priority Scheduling Algorithm, a pivotal component in operating systems. Our collaborative effort optimized task execution, demonstrating adaptability, innovation, and a commitment to efficient resource utilization. Through effective teamwork, we navigated challenges, delivering a robust solution with real-world applications, showcasing our collective dedication to excellence in algorithmic design.
-     
-  - 🔭 I’m currently working on Databases
+  - 🔭 I’m currently working on ComputerVision
 
-## 💬 learning
-- 🌱 I’m currently learning **Backend web development**
 
-- 💬 Ask me about **HTML,Bootstrap,Javascript,jquery,API,Express**
-  
-##  📫 How to reach me  ❓
+<h1>💬 Learning</h1>
 
--Gmail- **charakranbirsingh@gmail.com**
+🌱 Currently diving into Backend Web Development.
 
-- ⚡ Fun fact **I Think I am Funny**
+💬 Feel free to ask me about HTML, Bootstrap, JavaScript, jQuery, APIs, and Express!
 
-<h3 align="left"> 📫 Connect with me:</h3>
+
+<h1>📫 Get in Touch</h1>
+
+Gmail: charakranbirsingh@gmail.com
+
+⚡ Fun fact: I like to think I’m funny!
+
+
+<h1 align="left"> 📫 Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/https://x.com/ranbirs64908705?t=2sg2fzb91fcipfihvw9n7a&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ranbirs64908705?t=2sg2fzb91fcipfihvw9n7a&s=08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ranbir singh charak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranbir-singh-4b8b59188" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ranbir-singh-4b8b59188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranbir-singh-4b8b59188" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- 
+
+
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -82,16 +82,25 @@
 
  
 
-## 💻 Technologies 📖
 
-- Programming Languages: Javascript,Python ,C ,C++;
-- Others : API, Express.js, Node.js ,Git 
-- Frameworks:  Bootstrap
-- Databases: MySQL
-  
-  ## 💬 Let's Connect
+<h1>💻 Technologies 📖</h1>
 
-I'm always interested in connecting with fellow developers. Feel free to reach out and let's chat!
+Frontend : JavaScript, React.js, Next.js 14, HTML, CSS, Tailwind, Bootstrap  
+
+Backend : Node.js, Express.js, REST APIs, OAuth  
+
+Database : MySQL, PostgreSQL  
+
+Version Control : Git  
+
+Languages : Python, JavaScript  
+
+
+
+<h1>💬 Let’s Connect!</h1>
+
+I’m always eager to connect with fellow developers. Feel free to reach out—I’d love to chat!
+
 
   # 📊 GitHub Stats:
 

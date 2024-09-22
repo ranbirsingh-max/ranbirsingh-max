@@ -12,11 +12,11 @@
 <p align="center">
 <img alt="coding" width="500"  src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"></p>
 
-  -🔭[project]Portfolio Development Project. (https://ranbirs-projects.vercel.app/)
+  -🔭[project]Portfolio Development Project. (https://ranbirs-projects.vercel.app/) 🎯Live Link
  
      💠💻✨ Created a responsive portfolio website that boosted client engagement by 20% 📈 and enhanced user experience by 30% 🌟. Key features: sleek design and dynamic interface. Tech Stack: Next.js 14, Tailwind CSS, Framer Motion, Swiper Slider.
 
-  -🔭[project]BookHeaven (https://github.com/ranbirsingh-max/Internship-Project.git)
+  -🔭[project]BookHeaven (https://intern-project-1-2tqz.onrender.com)  🎯Live Link
   
      💠 📚✨ Built an engaging book platform with dynamic search and personalized recommendations, boosting user satisfaction by 35%!Tech Stack: React.js, MongoDB, Node.js, Express.js.
 
@@ -24,7 +24,7 @@
   
      💠🍽️✨ Launched a community-focused food-sharing website, attracting 500+ users in the first month! 🚀 Key features include user authentication, food uploads, and reviews, boosting engagement by 25%.Tech Stack: MongoDB, Express.js, React, Node.js (MERN Stack).
 
- -🔭[project] CodeFlowStudio (https://verdant-queijadas-da046b.netlify.app/)
+ -🔭[project] CodeFlowStudio (https://verdant-queijadas-da046b.netlify.app/)  🎯Live Link
 
      💠💻✨ Created dynamic code editors for HTML, JavaScript, and CSS, enhancing user productivity by 40%! 🚀 Features include collapsible panels and multi-language support, boosting satisfaction by 30%.Tech Stack: React, CSS, CodeMirror.
 

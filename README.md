@@ -20,7 +20,7 @@
   
      💠 📚✨ Built an engaging book platform with dynamic search and personalized recommendations, boosting user satisfaction by 35%!Tech Stack: React.js, MongoDB, Node.js, Express.js.
 
-  -🔭[project]GOFOOD (https://github.com/ranbirsingh-max/Minor_Project)
+  -🔭[project]GOFOOD (https://minor-project-gofood-0.onrender.com) 🎯Live Link
   
      💠🍽️✨ Launched a community-focused food-sharing website, attracting 500+ users in the first month! 🚀 Key features include user authentication, food uploads, and reviews, boosting engagement by 25%.Tech Stack: MongoDB, Express.js, React, Node.js (MERN Stack).
 
